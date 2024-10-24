@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mGHOV9IkZ/U=",
+  "dgSpecHash": "aplYjah7nkM=",
   "success": true,
-  "projectFilePath": "D:\\College\\4th Year Prep\\C# Apis\\NewsArticlesApi\\TechNewsApi\\TechNewsApi.csproj",
+  "projectFilePath": "D:\\College\\Projects\\FullStack\\NewsArticlesApi\\TechNewsApi\\TechNewsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\microsoft.aspnetcore.http.2.2.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

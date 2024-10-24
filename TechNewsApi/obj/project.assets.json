@@ -1603,11 +1603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\College\\4th Year Prep\\C# Apis\\NewsArticlesApi\\TechNewsApi\\TechNewsApi.csproj",
+      "projectUniqueName": "D:\\College\\Projects\\FullStack\\NewsArticlesApi\\TechNewsApi\\TechNewsApi.csproj",
       "projectName": "TechNewsApi",
-      "projectPath": "D:\\College\\4th Year Prep\\C# Apis\\NewsArticlesApi\\TechNewsApi\\TechNewsApi.csproj",
+      "projectPath": "D:\\College\\Projects\\FullStack\\NewsArticlesApi\\TechNewsApi\\TechNewsApi.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\College\\4th Year Prep\\C# Apis\\NewsArticlesApi\\TechNewsApi\\obj\\",
+      "outputPath": "D:\\College\\Projects\\FullStack\\NewsArticlesApi\\TechNewsApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -9,6 +9,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient<NewsService>();
 builder.Services.AddControllers();
 builder.Services.AddResponseCaching();
+builder.Services.AddCors();
 
 var app = builder.Build();
 
@@ -19,6 +20,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseCors(builder =>
+
+    builder.WithOrigins("http://localhost:3000")
+           .AllowAnyMethod()
+           .AllowAnyHeader());
+;
 app.UseResponseCaching();
 app.MapControllers();
 
